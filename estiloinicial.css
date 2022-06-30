@@ -1,0 +1,72 @@
+body {
+	background-color: black;
+}
+
+.Logo {
+
+}
+
+.Mapa {
+	left: 50%;
+}
+
+.recado {
+	position: absolute;
+	top: 135%;
+	right: 60%;
+	color: white;
+}
+
+.insta {
+	text-align: center;
+	color: red;
+}
+
+.Painel {
+	position: absolute;
+	top: 73%;
+	left: 50%;
+}
+
+.Texto {
+	position: absolute;
+	top: 5%;
+	left: 45%;
+	text-align:justify;
+	color: white;
+}
+
+.acesso {
+	position: absolute;
+	top: 28%;
+	left: 60%;
+	color: red;
+}
+
+.matricula {
+
+}
+
+.senha {
+	position: absolute;
+	left: 28%;
+}
+
+a {
+	position: absolute;
+	left: 25%;
+	color: white;
+	display: color red;
+}
+
+button {
+	position: absolute;
+	top: 130%;
+	left: 10%;
+	width: 200px;
+	height: 30px;
+	font-family: Impact, fantasy;
+	font-size: 20px;
+	border-color: white;
+	background-color: red;
+}
